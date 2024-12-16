@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ch2-beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch2-multi-beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-autoWiring-contructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-autoWiring-method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-directWiring-constructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch3-directWiring-method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch4-PSA-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch4-PSA-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch4-PSA-stereotype-annotation/src/main/java" charset="UTF-8" />
+  </component>
+</project>

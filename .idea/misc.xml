@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch2-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/ch2-multi-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-PSA-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-PSA-repository/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-autoWiring-method/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-directWiring-method/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-autoWiring-contructor/pom.xml" />
+        <option value="$PROJECT_DIR$/ch3-directWiring-constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/ch4-PSA-stereotype-annotation/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
