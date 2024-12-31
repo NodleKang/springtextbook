@@ -2,7 +2,7 @@ package beans;
 
 import org.springframework.stereotype.Component;
 
-// `@Component` 어노테이션을 보고 스프링 컨테이너가 빈(Bean)으로 자동으로 등록
+// `@Component` 애너테이션을 보고 스프링 컨테이너가 빈(Bean)으로 자동으로 등록
 @Component
 public class 노트북 {
 

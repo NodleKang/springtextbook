@@ -3,7 +3,7 @@ package beans;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component // `@Component` 어노테이션을 사용해서 스프링 컨테이너에 빈(Bean)으로 등록
+@Component // `@Component` 애너테이션을 사용해서 스프링 컨테이너에 빈(Bean)으로 등록
 public class 엔지니어 {
 
     private String name;

@@ -7,9 +7,9 @@ import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 
-// `@Aspect` 어노테이션을 보고 애스펙트 클래스라는 걸 알게됨
+// `@Aspect` 애너테이션을 보고 애스펙트 클래스라는 걸 알게됨
 @Aspect
-// `@Component` 어노테이션을 보고 스프링 컨테이너가 빈(Bean)으로 자동으로 등록
+// `@Component` 애너테이션을 보고 스프링 컨테이너가 빈(Bean)으로 자동으로 등록
 @Component
 public class LoggingAspect {
 
