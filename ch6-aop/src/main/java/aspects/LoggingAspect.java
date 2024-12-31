@@ -15,7 +15,6 @@ public class LoggingAspect {
 
     @Around("execution(* service.*.*(..))")
     public Object log(ProceedingJoinPoint joinPoint) throws Throwable {
-        System.out.println("로깅 애스펙트: 메소드 실행 가로채기");
 
         String methodName = joinPoint.getSignature().getName();
         Object[] arguments = joinPoint.getArgs();
