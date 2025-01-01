@@ -38,6 +38,9 @@ public class 엔지니어 {
         laptop.turnOn();
         laptop.work();
         technicalSupport.provideSupport(); // 기술 지원 서비스 사용
+        System.out.println("== AOP 구현을 위한 프록시 패턴이 적용됐는지 확인하는 내용 찍어보기");
+        System.out.println(technicalSupport.getClass().getName()+" 클래스가 사용됩니다.");
+        System.out.println("==============");
         System.out.printf("%s 가 노트북으로 작업을 완료했습니다.\n", name);
         reportRepository.save(name + "의 작업 보고서"); // 보고서 저장소 사용
     }
